@@ -1,0 +1,7 @@
+[
+  {
+    "Source": "aws.health",
+    "DetailType": "AWS Health Event",
+    "Detail": "{\"eventArn\":\"arn:aws:health:af-south-1::event/EC2/AWS_EC2_OPERATIONAL_ISSUE/AWS_EC2_OPERATIONAL_ISSUE_7f35c8ae-af1f-54e6-a526-d0179ed6d68f\",\"service\":\"EC2\",\"eventTypeCode\":\"AWS_EC2_OPERATIONAL_ISSUE\",\"eventTypeCategory\":\"issue\",\"statusCode\":\"open\"}"
+  }
+]
